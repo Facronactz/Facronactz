@@ -38,8 +38,9 @@ Nice to see you here 👋 -->
 </table> -->
 
 <!-- - 🎯&nbsp; Specifically interested in finding hidden patterns, rules and knowledge from a dataset. -->
-- <img src="https://slackmojis.com/emojis/30015-study/image/1643516946/study.gif" width="20">&nbsp; Currently studying informatics engineering at [**State University of Surabaya** (Universitas Negeri Surabaya)](https://unesa.ac.id/)
-- <img src="https://slackmojis.com/emojis/27681-script_code/image/1643516721/script_code.gif" width="20">&nbsp; Currently learning about Web Development in [**Dicoding Indonesia**](https://www.dicoding.com/users/facronactz)
+- <img src="https://slackmojis.com/emojis/30015-study/image/1643516946/study.gif" width="20">&nbsp; Recently graduated from Informatics Engineering at [**State University of Surabaya** (Universitas Negeri Surabaya)](https://unesa.ac.id/)
+- <img src="https://slackmojis.com/emojis/19570-internet/image/1680405587/internet.gif" width="20">&nbsp; Internship at Pemerintah Kota Kediri [**Prodamas Pemkot Kediri**]([https://www.dicoding.com/users/facronactz](https://prodamas.kedirikota.go.id/))
+- <img src="https://slackmojis.com/emojis/27681-script_code/image/1643516721/script_code.gif" width="20">&nbsp; Have been learning about Web Development in [**Dicoding Indonesia**](https://www.dicoding.com/users/facronactz)
 - 🔭&nbsp;  Area of interest is in <img src="https://img.shields.io/badge/FrontEnd Website-darkgreen"> and <img src="https://img.shields.io/badge/MultiPlatform Development-red">
 - 🌱 Learning all about <img src="https://img.shields.io/badge/Artificial Intelligence-brown"> and <img src="https://img.shields.io/badge/Cyber Security-008080">
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25"/> Ping me about <img src="https://img.shields.io/badge/JS Framework-yellow"> and <img src="https://img.shields.io/badge/AI Implementation-purple">
