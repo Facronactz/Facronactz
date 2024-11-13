@@ -38,6 +38,7 @@ Nice to see you here 👋 -->
 </table> -->
 
 <!-- - 🎯&nbsp; Specifically interested in finding hidden patterns, rules and knowledge from a dataset. -->
+- <img src="https://slackmojis.com/emojis/5264-coding/image/1680404348/coding.gif" width="20">&nbsp; Currently Working as a Developer and IT Staff at [**PT. Enigma Cipta Humanika**](https://enigmacamp.com/)
 - <img src="https://slackmojis.com/emojis/30015-study/image/1643516946/study.gif" width="20">&nbsp; Recently graduated from Informatics Engineering at [**State University of Surabaya** (Universitas Negeri Surabaya)](https://unesa.ac.id/)
 - <img src="https://slackmojis.com/emojis/19570-internet/image/1680405587/internet.gif" width="20">&nbsp; Internship at Pemerintah Kota Kediri [**Prodamas Pemkot Kediri**](https://prodamas.kedirikota.go.id/)
 - <img src="https://slackmojis.com/emojis/27681-script_code/image/1643516721/script_code.gif" width="20">&nbsp; Have been learning about Web Development in [**Dicoding Indonesia**](https://www.dicoding.com/users/facronactz)
