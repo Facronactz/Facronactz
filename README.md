@@ -66,12 +66,27 @@ Nice to see you here 👋 -->
 </p>
 
 <!-- stats -->
+## 📊 Stats:
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=facronactz&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&count_private=true&include_all_commits=true" alt="Milaan's Github readme stats"><br>
-    <img width="48%"  src="https://streak-stats.demolab.com/?user=facronactz&theme=tokyonight&background=1e1e2e&sideNums=cdd6f4&sideLabels=94e2d5&currStreakLabel=cba6f7&currStreakNum=cba6f7&ring=94e2d5&fire=94e2d5&dates=cdd6f4&count_private=true&include_all_commits=true">
-    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=facronactz&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&layout=compact&count_private=true&include_all_commits=true" alt="facronactz"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=facronactz&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&count_private=true&include_all_commits=true" alt="Facronactz's Github readme stats"><br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=facronactz&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&layout=compact&count_private=true&include_all_commits=true" alt="facronactz"/>
+<!--     <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Facronactz&theme=dark&hide_border=false"> -->
 </p>
 
+
+## 🏆 GitHub Trophies
+![](https://github-readme-streak-stats.herokuapp.com/?user=Facronactz&theme=dark&hide_border=false)
+![](https://github-profile-trophy.vercel.app/?username=Facronactz&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
+
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Facronactz&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+---
+## 💰 You can help me by Donating
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Facronactz) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/Facronactz) 
+
+  
 <!--
 [![DOI](https://zenodo.org/badge/200104059.svg)](https://zenodo.org/badge/latestdoi/200104059)
 - 📄 [Resume](https://sudhanshu456.github.io/stages/updated_resume.pdf)
