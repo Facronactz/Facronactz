@@ -70,12 +70,15 @@ Nice to see you here 👋 -->
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=facronactz&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&count_private=true&include_all_commits=true" alt="Facronactz's Github readme stats"><br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=facronactz&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&layout=compact&count_private=true&include_all_commits=true" alt="facronactz"/>
-<!--     <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Facronactz&theme=dark&hide_border=false"> -->
 </p>
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Facronactz&theme=dark&hide_border=false">
+</p>
+
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=Facronactz&theme=dark&hide_border=false) -->
 
 
 ## 🏆 GitHub Trophies
-![](https://github-readme-streak-stats.herokuapp.com/?user=Facronactz&theme=dark&hide_border=false)
 ![](https://github-profile-trophy.vercel.app/?username=Facronactz&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
 
 
